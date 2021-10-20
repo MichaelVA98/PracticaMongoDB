@@ -1,4 +1,4 @@
-# Administrador de Datos Restaurant Castope - Backend
+# Administrador de Datos Biblioteca- Backend
 
 Ejecutar el siguiente codigo para generar las dependencias
 ```
